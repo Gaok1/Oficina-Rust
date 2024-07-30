@@ -34,10 +34,10 @@ https://www.canva.com/design/DAGLr3zGdv8/q16WaE63HMtjPHgpc_QbmA/edit?utm_content
 
 - **Estruturas de Controle**
   - `if` (3 minutos)
-  - Loops (`loop`, `while`, `for`) (3 a 5 minutos)
-  - `match` e Enums (40 minutos)
-    - `Option<T>` e `match` (30 minutos)
-    - `Result<T, E>` (10 minutos)
+  - Loops (`loop`, `while`, `for`) 
+  - `match` e Enums 
+    - `Option<T>` e `match` 
+    - `Result<T, E>` 
 
 ### Dia 3: Estruturas, Traits e Programação Genérica
 
