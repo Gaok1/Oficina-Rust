@@ -6,6 +6,9 @@ Bem-vindo ao repositório da oficina "Introdução à Linguagem Rust"! Esta ofic
 ## Link do slide
 https://www.canva.com/design/DAGLr3zGdv8/q16WaE63HMtjPHgpc_QbmA/edit?utm_content=DAGLr3zGdv8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+## Acessem o Notion também com conteúdo adicional
+https://www.notion.so/414d4ee5d31d4451ab512691a98f4970?v=8fc531e439424ac1be62b05737feb466&pvs=4
+
 ## Estrutura da Oficina
 
 ### Dia 1: Fundamentos de Variáveis e Gerenciamento de Memória
